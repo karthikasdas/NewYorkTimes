@@ -26,6 +26,7 @@
 		25A6CDE626B2D39B00C391A2 /* NewsCellTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A6CDE526B2D39B00C391A2 /* NewsCellTableView.swift */; };
 		25A6CDE926B3D61800C391A2 /* AlertController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A6CDE826B3D61700C391A2 /* AlertController.swift */; };
 		25A6CDEB26B3D63200C391A2 /* SpinnerController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A6CDEA26B3D63200C391A2 /* SpinnerController.swift */; };
+		25A6CDEF26B41E5B00C391A2 /* NewsListDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A6CDEE26B41E5A00C391A2 /* NewsListDataSource.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,6 +72,7 @@
 		25A6CDE526B2D39B00C391A2 /* NewsCellTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsCellTableView.swift; sourceTree = "<group>"; };
 		25A6CDE826B3D61700C391A2 /* AlertController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertController.swift; sourceTree = "<group>"; };
 		25A6CDEA26B3D63200C391A2 /* SpinnerController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinnerController.swift; sourceTree = "<group>"; };
+		25A6CDEE26B41E5A00C391A2 /* NewsListDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsListDataSource.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,6 +206,7 @@
 				25A6CDD126B2C1A100C391A2 /* NewsListViewController.swift */,
 				25A6CDE326B2CBCD00C391A2 /* NewsCellTableView.xib */,
 				25A6CDE526B2D39B00C391A2 /* NewsCellTableView.swift */,
+				25A6CDEE26B41E5A00C391A2 /* NewsListDataSource.swift */,
 			);
 			path = NewsListTable;
 			sourceTree = "<group>";
@@ -357,6 +360,7 @@
 				25A6CDD426B2C1BA00C391A2 /* DetailedNewsViewController.swift in Sources */,
 				25A6CDE126B2C4A500C391A2 /* NewsList.swift in Sources */,
 				25A6CDDF26B2C44900C391A2 /* ListEndpoint.swift in Sources */,
+				25A6CDEF26B41E5B00C391A2 /* NewsListDataSource.swift in Sources */,
 				25A6CDD726B2C24700C391A2 /* Endpoint.swift in Sources */,
 				25A6CDDA26B2C28800C391A2 /* NewsAPI.swift in Sources */,
 				25A6CDD226B2C1A100C391A2 /* NewsListViewController.swift in Sources */,

@@ -1,11 +1,11 @@
 {
-  "buildCommand" : "prepareForIndexing",
+  "buildCommand" : "build",
   "configuredTargets" : [
     {
       "guid" : "456840f7ca36487bbf9a23fc7649036889a908459281f567e017378c7b43d8b9"
     }
   ],
-  "continueBuildingAfterErrors" : true,
+  "continueBuildingAfterErrors" : false,
   "enableIndexBuildArena" : false,
   "hideShellScriptEnvironment" : false,
   "parameters" : {
@@ -46,11 +46,10 @@
       }
     }
   },
-  "qos" : "default",
   "schemeCommand" : "launch",
   "shouldCollectMetrics" : false,
   "showNonLoggedProgress" : true,
-  "useDryRun" : true,
+  "useDryRun" : false,
   "useImplicitDependencies" : true,
   "useLegacyBuildLocations" : false,
   "useParallelTargets" : true

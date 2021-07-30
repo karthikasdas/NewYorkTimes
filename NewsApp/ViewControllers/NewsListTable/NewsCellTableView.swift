@@ -12,19 +12,11 @@ class NewsCellTableView:UITableViewCell {
     @IBOutlet weak var author: UILabel!
     @IBOutlet weak var title: UILabel!
     @IBOutlet weak var date_published: UILabel!
-    var nameFld: String = "" {
+    var cellData: Results! {
         didSet {
-            self.author.text = nameFld
-        }
-    }
-    var dateFld: String = "" {
-        didSet {
-            self.date_published.text = dateFld
-        }
-    }
-    var titleText:String = ""{
-        didSet{
-            self.title.text = titleText
+            self.author.text = cellData.byline
+            self.date_published.text = cellData.publishedDate
+            self.title.text = cellData.title
         }
     }
     override func awakeFromNib() {

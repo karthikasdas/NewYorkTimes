@@ -7,6 +7,7 @@
 /Users/karthika/Documents/NewsApp/NewsApp/ViewControllers/DetailedNewsViewController.swift
 /Users/karthika/Documents/NewsApp/NewsApp/Models/NewsList.swift
 /Users/karthika/Documents/NewsApp/NewsApp/API-Services/Endpoints/ListEndpoint.swift
+/Users/karthika/Documents/NewsApp/NewsApp/ViewControllers/NewsListTable/NewsListDataSource.swift
 /Users/karthika/Documents/NewsApp/NewsApp/API-Services/Endpoints/Endpoint.swift
 /Users/karthika/Documents/NewsApp/NewsApp/API-Services/NewsAPI.swift
 /Users/karthika/Documents/NewsApp/NewsApp/ViewControllers/NewsListTable/NewsListViewController.swift

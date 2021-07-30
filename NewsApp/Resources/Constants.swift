@@ -9,3 +9,4 @@ import Foundation
 
 
 let secretKey = "ociXeTYnVmPnAVN04HOHwHjDMX1dzbY8"
+let cellId = "NEWS_TABLE_CELL_IDENTIFIER"
