@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "13568cf11924d0d10e52462270e008ff"
+build_time: [1627628904, 14130000]
+inputs:
+  "/Users/karthika/Documents/NewsApp/NewsApp/ViewController.swift": [1627555505, 774571018]
+  "/Users/karthika/Documents/NewsApp/NewsApp/AppDelegate.swift": [1627555505, 759238717]
+  "/Users/karthika/Documents/NewsApp/NewsApp/ViewControllers/HelperControllers/SpinnerController.swift": [1627628086, 41310658]
+  "/Users/karthika/Documents/NewsApp/NewsApp/ViewControllers/NewsListTable/NewsCellTableView.swift": [1627574137, 484774103]
+  "/Users/karthika/Documents/NewsApp/NewsApp/SceneDelegate.swift": [1627555505, 771625600]
+  "/Users/karthika/Documents/NewsApp/NewsApp/ViewControllers/HelperControllers/AlertController.swift": [1627628491, 123800347]
+  "/Users/karthika/Documents/NewsApp/NewsApp/ViewControllers/DetailedNewsViewController.swift": [1627574810, 871840124]
+  "/Users/karthika/Documents/NewsApp/NewsApp/Models/NewsList.swift": [1627558787, 244535232]
+  "/Users/karthika/Documents/NewsApp/NewsApp/API-Services/Endpoints/ListEndpoint.swift": [1627627094, 30176945]
+  "/Users/karthika/Documents/NewsApp/NewsApp/API-Services/Endpoints/Endpoint.swift": [1627572946, 537821129]
+  "/Users/karthika/Documents/NewsApp/NewsApp/API-Services/NewsAPI.swift": [1627627176, 883374819]
+  "/Users/karthika/Documents/NewsApp/NewsApp/ViewControllers/NewsListTable/NewsListViewController.swift": [1627628903, 286229118]
+  "/Users/karthika/Documents/NewsApp/NewsApp/Resources/Constants.swift": [1627557004, 231090852]

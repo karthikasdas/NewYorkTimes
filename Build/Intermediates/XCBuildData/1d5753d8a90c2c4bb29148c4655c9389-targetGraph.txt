@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+NewsApp in NewsApp
+NewsAppTests in NewsApp, depends on:
+NewsApp in NewsApp (explicit)
+NewsAppUITests in NewsApp, depends on:
+NewsApp in NewsApp (explicit)
